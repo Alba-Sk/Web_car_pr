@@ -1,0 +1,1 @@
+upload_image = st.file_uploader('Upload an image file (JPEG or PNG)', type=['jpg', 'jpeg', 'png'])
