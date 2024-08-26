@@ -12,4 +12,4 @@ Github link
 https://github.com/Alba-Sk/Web_car_pr/tree/main
 
 Render link
-https://web-car-pr.onrender.com
+https://web-car-pr.onrender.com/
