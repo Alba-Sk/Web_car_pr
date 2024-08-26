@@ -9,7 +9,7 @@ EDA project, sprint 4 "Web App"
 >>>>>>> 065fa1c7343daa4d184e2300532cfff693814a90
 
 
-https://github.com/Alba-Sk/Web_car_pr
+https://github.com/Alba-Sk/Web_car_pr/tree/main
 
 
 https://dashboard.render.com/web/srv-cr420drtq21c73dsimd0/deploys/dep-cr5oj3rv2p9s73e4d2hg?r=2024-08-25%4019%3A43%3A18%7E2024-08-25%4019%3A47%3A50
